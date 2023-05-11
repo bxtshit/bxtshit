@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @bxtshit
 - 👀 I’m interested in C++ and learning Game Reversing.
 - 🌱 I’m currently learning C++.
-- 📫 How to reach me, bxtshit#0001 on Discord.
+- 📫 How to reach me, bxtshit#3095 on Discord.
