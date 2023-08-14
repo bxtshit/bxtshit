@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @bxtshit
-- 👀 I’m interested in Coding & Programming + The Exploitation Of Windows.
+- 👀 I’m interested in Programming + The Exploitation Of Windows.
 - 🌱 I’m Currently Learning C++, & Getting Into Basics Of Windows Kernel Driver Development.
-- 📫 How To Reach Me, ! Frosty#2664 on Discord.
+- 📫 How To Reach Me, bxtshit on Discord.
