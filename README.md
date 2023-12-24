@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @bxtshit
-- 👀 I’m interested in Programming + The Exploitation Of Windows.
-- 🌱 I’m Currently Learning C++, & Getting Into Basics Of Windows Kernel Driver Development.
-- 📫 How To Reach Me, bxtshit on Discord.
+-  Hi, I’m @bxtshit.
+-  I’m interested in Programming + the exploitation of Windows.
+-  I’m Currently Learning .ASM, & getting into advanced useage of Windows Kernel Drivers.
